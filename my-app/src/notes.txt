@@ -1,0 +1,10 @@
+Ok so here's what the fuck I'm doing:
+
+
+I have divded the image into chunks now, but this is not enough. 
+
+I need to have multiple scoring functions so that I can assign each chunk a score
+
+I need at least two different scoring functions that have different criteria
+
+I can then order them 
